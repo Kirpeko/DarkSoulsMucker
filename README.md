@@ -6,4 +6,4 @@ As is the project was built for a Dark Souls 3 playthrough but could theoretical
 
 !!There is currently no killswitch added so be careful of alt-tabbing mid loop!!
 
-For larger or smaller gaps in time between outputs change the range in time_interval to whatever you want in seconds (default 10 to 20s)
+For larger or smaller gaps in time between outputs change the range of time_interval in main.py to whatever you want in seconds (default 10 to 20s)
