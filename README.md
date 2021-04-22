@@ -1,6 +1,8 @@
 # DarkSoulsMucker
 Shoots Random inputs to Dark Souls while you play to mess you up
 
+Requires AutoHotKey and Python interpreter
+
 
 As is the project was built for a Dark Souls 3 playthrough but could theoretically work on many different games with some changes to Joystick.ahk
 
